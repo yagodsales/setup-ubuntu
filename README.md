@@ -13,12 +13,3 @@ Este projeto contém um script Bash que configura automaticamente o seu ambiente
 
 Além disso, o script faz verificações para garantir que os softwares não sejam reinstalados se já estiverem presentes no sistema.
 
-## 🚀 Como Usar
-
-### 1. Baixe o repositório
-
-Primeiro, clone este repositório em seu diretório de trabalho:
-
-```bash
-git clone https://github.com/seuuser/ubuntu-setup.git
-cd ubuntu-setup
